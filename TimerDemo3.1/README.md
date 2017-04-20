@@ -15,3 +15,4 @@ http://rockvignesh25.blogspot.tw/2012/02/seven-segment-display-in-c.html
 就會在程式連續計時，超過1天~1天半之間，發現誤差。
 本作品原先使用在協助上份工作的效率上，因此計時的數值準確性是重要的，
 於是額外找到校正的方法，加以改善(紀錄起始時間，在一定時間後再抓取時間，校正)。
+By Yu-Yi,Lin(Field-Long) 林侑億 20170420 整理
