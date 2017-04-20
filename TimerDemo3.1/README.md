@@ -1,7 +1,7 @@
 # TimerDemo3.1
 [2016.11.10課後練習作品]
 
-C#七段顯示器(英文文件)<br/>
+C＃七段顯示器(英文文件)<br/>
 http://rockvignesh25.blogspot.tw/2012/02/seven-segment-display-in-c.html<br/>
 運用到本週所教的Graphics就可達成<br/>
 ------
